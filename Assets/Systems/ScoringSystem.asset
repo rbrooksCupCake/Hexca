@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0bb01b87d91317d4c913d1c2d9fd868d, type: 3}
+  m_Name: ScoringSystem
+  m_EditorClassIdentifier: 
+  playerScore: {fileID: 11400000, guid: 48fa9f00c28822d458100472630613e5, type: 2}
+  shapeMultiplier: 1
+  colorMultiplier: 0
+  colorMultiplierLevel: 0
+  scoreText: {fileID: 775976933209011754, guid: 2eee4669c8b2ac941a2b4d04c55c2da0,
+    type: 3}
+  currentLevel: {fileID: 11400000, guid: 03421606c235544aa9f8835786b3ce91, type: 2}
+  theLevelData: {fileID: 11400000, guid: 89bea0bf0c9ba43c198aebf6163414bf, type: 2}
+  TimeBetweenLoads: {fileID: 11400000, guid: 43c10b89ee156d546a1bb29b1d69734b, type: 2}
+  MyMultiplierBehavior: {fileID: 8582648442622355774, guid: 0ca1d6e49dcd1cb4196530673b610b18,
+    type: 3}

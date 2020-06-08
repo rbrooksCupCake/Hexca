@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: abe12d77905aa97408666fc8510edbd5, type: 3}
+  m_Name: Null
+  m_EditorClassIdentifier: 
+  colorName: Null
+  UniqueID: -1
+  hexColor: {r: 0.57254905, g: 0.57254905, b: 0.57254905, a: 1}
+  spawnColor: {r: 0.57254905, g: 0.57254905, b: 0.57254905, a: 1}
+  loadingMaterial: {fileID: 11400000, guid: db69a4b1d98ee17498253e5020b10e61, type: 2}
+  defaultMaterial: {fileID: 11400000, guid: db69a4b1d98ee17498253e5020b10e61, type: 2}
+  shatterMaterial: {fileID: 11400000, guid: db69a4b1d98ee17498253e5020b10e61, type: 2}
